@@ -70,7 +70,7 @@ This query returns a snapshot of the locks used at a specific point in time.
 
 ## Tools and permissions
 
-You can use any client application that supports MDX or DMX queries. In most cases, it's best to use SQL Server Management Studio. You must have server administrator permissions on the instance to query a DMV.  
+You can use any client application that supports MDX or DMX queries. In most cases, it's best to use SQL Server Management Studio. It may require Analysis Services Administrative permission to run some DMVs. 
   
 ### To run a DMV query from SQL Server Management Studio
 
